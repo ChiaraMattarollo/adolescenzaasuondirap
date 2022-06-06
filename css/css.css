@@ -203,5 +203,6 @@ input[type=submit]:hover {
 }
 
 .ark {vertical-align: middle;
-border-style: none;}
+border-style: none;
+max-height: 10%;}
 

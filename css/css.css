@@ -206,6 +206,7 @@ input[type=submit]:hover {
 border-style: none;
 text-align: center;
 display: block;
+align-content: center;
 }
 .link {border-radius: 50%;
 border-color: black;}

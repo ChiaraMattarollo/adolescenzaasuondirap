@@ -202,7 +202,7 @@ input[type=submit]:hover {
   opacity: 0.8;
 }
 
-.ark {vertical-align: middle;
+#ark {vertical-align: middle;
 border-style: none;
 text-align: center;
 display: block;

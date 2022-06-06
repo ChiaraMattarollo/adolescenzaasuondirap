@@ -204,8 +204,9 @@ input[type=submit]:hover {
 
 .ark {vertical-align: middle;
 border-style: none;
-<<<<<<< HEAD
-max-height: 384px;
-max-width: 301px;}
+}
+.link {border-radius: 50%;
+border-color: black;}
+
 
 
